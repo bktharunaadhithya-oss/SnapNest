@@ -1,3 +1,4 @@
 # SnapNest
 
-SnapNest is an image-search app designed to help users discover images by searching for a topic. I chose a light blue-grey visual theme to create a clean and calm interface that is different from the PixelPulse reference. I added quick-pick category chips for Nature, Cities, and Animals so users can easily discover common search topics. I also added an empty-state message and result-count placeholder so the interface clearly communicates what will happen when image results are added in Part 2.
+SnapNest is an image-search app designed to help users discover images by searching for a topic. I chose a light blue-grey color theme to create a clean, calm interface and to make SnapNest visually different from the purple PixelPulse reference. I added quick-pick category chips for Nature, Cities, and Animals so users can start common searches quickly without typing. I also added an empty-state message to clearly tell users what to do before any images are displayed. The responsive CSS Grid layout was chosen so that future image results can automatically adjust to different screen sizes and device widths.
+
